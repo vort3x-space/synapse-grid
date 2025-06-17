@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa11ec82e9746928e211e7f096812ca, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  gameAnalyticsIosGameKey: 4dfa6fab44e3c4e92affb6d3d91413a0
+  gameAnalyticsIosSecretKey: e20171c0d95818066648e22535c71c6d539c4076
+  gameAnalyticsAndroidGameKey: b96e0a858b324fa54dc4578e5a764c83
+  gameAnalyticsAndroidSecretKey: 24a547cca360d4d0142f887948e3716d3e75ef05
+  facebookAppId: 704935391894430
+  facebookClientToken: 76cb01b7fedaa6a2ba099444a03effac
+  adjustIOSToken: 5exph3lwy9og
+  adjustAndroidToken: qlexzvmz8u80
+  EditorIdfa: 0288714b-8f9a-4af1-ab39-59d73a14e53a
+  UseRemoteConfig: 0
+  UseVoodooAnalytics: 1
+  companyName: gogames.com.tr
+  privacyPolicyURL: https://gogames.com.tr/privacy.html
+  developerContactEmail: gogamesglobal@gmail.com

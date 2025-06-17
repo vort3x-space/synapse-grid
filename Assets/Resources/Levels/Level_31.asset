@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e50573e642d875d46b3c7258c0bad537, type: 3}
+  m_Name: Level_31
+  m_EditorClassIdentifier: 
+  levelName: Level 31
+  gridSize: 6
+  enableTimer: 1
+  enableSwap: 1
+  swapProbability: 0.1
+  includeLockedCells: 1
+  lockedProbability: 0.15
+  includeHiddenCells: 0
+  hiddenProbability: 0.25
+  includeDangerCells: 0
+  dangerProbability: 0.2
+  includeDirectionBlocks: 0
+  directionProbability: 0.2
+  targetWords:
+  - DISTRIBUTION
+  - TECHNOLOGIES
+  - CONNECTIONS
